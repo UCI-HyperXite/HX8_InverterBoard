@@ -10034,259 +10034,6 @@ KEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Wafe solder</description>
 <rectangle x1="0.875" y1="-0.45" x2="1" y2="0.45" layer="51"/>
 <rectangle x1="0.3" y1="-0.625" x2="0.5" y2="0.625" layer="51"/>
 </package>
-<package name="PANASONIC_A" urn="urn:adsk.eagle:footprint:22924/1" library_version="11">
-<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package A&lt;/b&gt;</description>
-<wire x1="-1.6" y1="1.6" x2="0.8" y2="1.6" width="0.1016" layer="51"/>
-<wire x1="0.8" y1="1.6" x2="1.6" y2="0.8" width="0.1016" layer="51"/>
-<wire x1="1.6" y1="0.8" x2="1.6" y2="-0.8" width="0.1016" layer="51"/>
-<wire x1="1.6" y1="-0.8" x2="0.8" y2="-1.6" width="0.1016" layer="51"/>
-<wire x1="0.8" y1="-1.6" x2="-1.6" y2="-1.6" width="0.1016" layer="51"/>
-<wire x1="-1.6" y1="-1.6" x2="-1.6" y2="1.6" width="0.1016" layer="51"/>
-<wire x1="-1.1" y1="0.95" x2="1.1" y2="0.95" width="0.1016" layer="21" curve="-98.369832"/>
-<wire x1="-1.1" y1="-0.95" x2="1.15" y2="-0.9" width="0.1016" layer="21" curve="101.144396"/>
-<wire x1="-1.6" y1="0.95" x2="-1.6" y2="1.6" width="0.1016" layer="21"/>
-<wire x1="-1.6" y1="1.6" x2="0.8" y2="1.6" width="0.1016" layer="21"/>
-<wire x1="0.8" y1="1.6" x2="1.5" y2="0.9" width="0.1016" layer="21"/>
-<wire x1="1.5" y1="-0.9" x2="0.8" y2="-1.6" width="0.1016" layer="21"/>
-<wire x1="0.8" y1="-1.6" x2="-1.6" y2="-1.6" width="0.1016" layer="21"/>
-<wire x1="-1.6" y1="-1.6" x2="-1.6" y2="-0.95" width="0.1016" layer="21"/>
-<wire x1="-0.8" y1="1.2" x2="-0.8" y2="-1.2" width="0.1016" layer="51"/>
-<circle x="0" y="0" radius="1.45" width="0.1016" layer="51"/>
-<smd name="-" x="-1.3" y="0" dx="2" dy="1.5" layer="1"/>
-<smd name="+" x="1.3" y="0" dx="2" dy="1.5" layer="1"/>
-<text x="-1.65" y="1.75" size="1.016" layer="25">&gt;NAME</text>
-<text x="-1.65" y="-2.825" size="1.016" layer="27">&gt;VALUE</text>
-<rectangle x1="-1.8" y1="-0.3" x2="-1.45" y2="0.3" layer="51"/>
-<rectangle x1="1.45" y1="-0.3" x2="1.8" y2="0.3" layer="51"/>
-<polygon width="0.1016" layer="51">
-<vertex x="-1.149996875" y="-0.800003125"/>
-<vertex x="-0.85" y="-1.1"/>
-<vertex x="-0.85" y="1.1"/>
-<vertex x="-1.149996875" y="0.800003125"/>
-<vertex x="-1.35" y="0.299996875"/>
-<vertex x="-1.35" y="-0.299996875"/>
-</polygon>
-</package>
-<package name="PANASONIC_B" urn="urn:adsk.eagle:footprint:22925/1" library_version="11">
-<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B&lt;/b&gt;</description>
-<wire x1="-2.1" y1="2.1" x2="1" y2="2.1" width="0.1016" layer="51"/>
-<wire x1="1" y1="2.1" x2="2.1" y2="1" width="0.1016" layer="51"/>
-<wire x1="2.1" y1="1" x2="2.1" y2="-1" width="0.1016" layer="51"/>
-<wire x1="2.1" y1="-1" x2="1" y2="-2.1" width="0.1016" layer="51"/>
-<wire x1="1" y1="-2.1" x2="-2.1" y2="-2.1" width="0.1016" layer="51"/>
-<wire x1="-2.1" y1="-2.1" x2="-2.1" y2="2.1" width="0.1016" layer="51"/>
-<wire x1="-1.75" y1="0.85" x2="1.75" y2="0.85" width="0.1016" layer="21" curve="-128.186984"/>
-<wire x1="-1.75" y1="-0.85" x2="1.75" y2="-0.85" width="0.1016" layer="21" curve="128.186984"/>
-<wire x1="-2.1" y1="0.85" x2="-2.1" y2="2.1" width="0.1016" layer="21"/>
-<wire x1="-2.1" y1="2.1" x2="1" y2="2.1" width="0.1016" layer="21"/>
-<wire x1="1" y1="2.1" x2="2.1" y2="1" width="0.1016" layer="21"/>
-<wire x1="2.1" y1="-1" x2="1" y2="-2.1" width="0.1016" layer="21"/>
-<wire x1="1" y1="-2.1" x2="-2.1" y2="-2.1" width="0.1016" layer="21"/>
-<wire x1="-2.1" y1="-2.1" x2="-2.1" y2="-0.85" width="0.1016" layer="21"/>
-<wire x1="-1.2" y1="1.5" x2="-1.2" y2="-1.5" width="0.1016" layer="51"/>
-<circle x="0" y="0" radius="1.95" width="0.1016" layer="51"/>
-<smd name="-" x="-1.6" y="0" dx="2.2" dy="1.4" layer="1"/>
-<smd name="+" x="1.6" y="0" dx="2.2" dy="1.4" layer="1"/>
-<text x="-2.15" y="2.3" size="1.016" layer="25">&gt;NAME</text>
-<text x="-2.15" y="-3.275" size="1.016" layer="27">&gt;VALUE</text>
-<rectangle x1="-2.3" y1="-0.35" x2="-1.85" y2="0.35" layer="51"/>
-<rectangle x1="1.9" y1="-0.35" x2="2.3" y2="0.35" layer="51"/>
-<polygon width="0.1016" layer="51">
-<vertex x="-1.7" y="-0.85"/>
-<vertex x="-1.25" y="-1.4"/>
-<vertex x="-1.25" y="1.45"/>
-<vertex x="-1.700003125" y="0.85"/>
-<vertex x="-1.85" y="0.349996875"/>
-<vertex x="-1.85" y="-0.399996875"/>
-</polygon>
-</package>
-<package name="PANASONIC_C" urn="urn:adsk.eagle:footprint:22926/1" library_version="11">
-<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package C&lt;/b&gt;</description>
-<wire x1="-2.6" y1="2.6" x2="1.25" y2="2.6" width="0.1016" layer="51"/>
-<wire x1="1.25" y1="2.6" x2="2.6" y2="1.25" width="0.1016" layer="51"/>
-<wire x1="2.6" y1="1.25" x2="2.6" y2="-1.25" width="0.1016" layer="51"/>
-<wire x1="2.6" y1="-1.25" x2="1.25" y2="-2.6" width="0.1016" layer="51"/>
-<wire x1="1.25" y1="-2.6" x2="-2.6" y2="-2.6" width="0.1016" layer="51"/>
-<wire x1="-2.6" y1="-2.6" x2="-2.6" y2="2.6" width="0.1016" layer="51"/>
-<wire x1="-2.6" y1="0.95" x2="-2.6" y2="2.6" width="0.1016" layer="21"/>
-<wire x1="-2.6" y1="2.6" x2="1.25" y2="2.6" width="0.1016" layer="21"/>
-<wire x1="1.25" y1="2.6" x2="2.6" y2="1.25" width="0.1016" layer="21"/>
-<wire x1="2.6" y1="1.25" x2="2.6" y2="0.95" width="0.1016" layer="21"/>
-<wire x1="2.6" y1="-0.95" x2="2.6" y2="-1.25" width="0.1016" layer="21"/>
-<wire x1="2.6" y1="-1.25" x2="1.25" y2="-2.6" width="0.1016" layer="21"/>
-<wire x1="1.25" y1="-2.6" x2="-2.6" y2="-2.6" width="0.1016" layer="21"/>
-<wire x1="-2.6" y1="-2.6" x2="-2.6" y2="-0.95" width="0.1016" layer="21"/>
-<wire x1="-2.3" y1="0.85" x2="2.3" y2="0.85" width="0.1016" layer="21" curve="-139.434882"/>
-<wire x1="-2.3" y1="-0.85" x2="2.3" y2="-0.85" width="0.1016" layer="21" curve="139.434882"/>
-<wire x1="-1.55" y1="1.85" x2="-1.55" y2="-1.85" width="0.1016" layer="51"/>
-<circle x="0" y="0" radius="2.45" width="0.1016" layer="51"/>
-<smd name="-" x="-2.05" y="0" dx="2.6" dy="1.4" layer="1"/>
-<smd name="+" x="2.05" y="0" dx="2.6" dy="1.4" layer="1"/>
-<text x="-2.6" y="2.75" size="1.016" layer="25">&gt;NAME</text>
-<text x="-2.65" y="-3.775" size="1.016" layer="27">&gt;VALUE</text>
-<rectangle x1="-2.95" y1="-0.35" x2="-2.4" y2="0.35" layer="51"/>
-<rectangle x1="2.4" y1="-0.35" x2="2.95" y2="0.35" layer="51"/>
-<polygon width="0.1016" layer="51">
-<vertex x="-2.25" y="-0.75"/>
-<vertex x="-1.950003125" y="-1.349996875"/>
-<vertex x="-1.6" y="-1.8"/>
-<vertex x="-1.6" y="1.8"/>
-<vertex x="-2" y="1.349996875"/>
-<vertex x="-2.25000625" y="0.74998125"/>
-<vertex x="-2.449996875" y="0.05"/>
-</polygon>
-</package>
-<package name="PANASONIC_D" urn="urn:adsk.eagle:footprint:22927/1" library_version="11">
-<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package D&lt;/b&gt;</description>
-<wire x1="-3.25" y1="3.25" x2="1.55" y2="3.25" width="0.1016" layer="51"/>
-<wire x1="1.55" y1="3.25" x2="3.25" y2="1.55" width="0.1016" layer="51"/>
-<wire x1="3.25" y1="1.55" x2="3.25" y2="-1.55" width="0.1016" layer="51"/>
-<wire x1="3.25" y1="-1.55" x2="1.55" y2="-3.25" width="0.1016" layer="51"/>
-<wire x1="1.55" y1="-3.25" x2="-3.25" y2="-3.25" width="0.1016" layer="51"/>
-<wire x1="-3.25" y1="-3.25" x2="-3.25" y2="3.25" width="0.1016" layer="51"/>
-<wire x1="-3.25" y1="0.95" x2="-3.25" y2="3.25" width="0.1016" layer="21"/>
-<wire x1="-3.25" y1="3.25" x2="1.55" y2="3.25" width="0.1016" layer="21"/>
-<wire x1="1.55" y1="3.25" x2="3.25" y2="1.55" width="0.1016" layer="21"/>
-<wire x1="3.25" y1="1.55" x2="3.25" y2="0.95" width="0.1016" layer="21"/>
-<wire x1="3.25" y1="-0.95" x2="3.25" y2="-1.55" width="0.1016" layer="21"/>
-<wire x1="3.25" y1="-1.55" x2="1.55" y2="-3.25" width="0.1016" layer="21"/>
-<wire x1="1.55" y1="-3.25" x2="-3.25" y2="-3.25" width="0.1016" layer="21"/>
-<wire x1="-3.25" y1="-3.25" x2="-3.25" y2="-0.95" width="0.1016" layer="21"/>
-<wire x1="-2.95" y1="0.95" x2="2.95" y2="0.95" width="0.1016" layer="21" curve="-144.299363"/>
-<wire x1="-2.95" y1="-0.95" x2="2.95" y2="-0.95" width="0.1016" layer="21" curve="144.299363"/>
-<wire x1="-2.1" y1="2.25" x2="-2.1" y2="-2.2" width="0.1016" layer="51"/>
-<circle x="0" y="0" radius="3.1" width="0.1016" layer="51"/>
-<smd name="-" x="-2.4" y="0" dx="3" dy="1.4" layer="1"/>
-<smd name="+" x="2.4" y="0" dx="3" dy="1.4" layer="1"/>
-<text x="-1.75" y="1" size="1.016" layer="25">&gt;NAME</text>
-<text x="-1.75" y="-1.975" size="1.016" layer="27">&gt;VALUE</text>
-<rectangle x1="-3.65" y1="-0.35" x2="-3.05" y2="0.35" layer="51"/>
-<rectangle x1="3.05" y1="-0.35" x2="3.65" y2="0.35" layer="51"/>
-<polygon width="0.1016" layer="51">
-<vertex x="-2.55" y="-1.65"/>
-<vertex x="-2.15" y="-2.15"/>
-<vertex x="-2.15" y="2.15"/>
-<vertex x="-2.150003125" y="2.15"/>
-<vertex x="-2.599996875" y="1.6"/>
-<vertex x="-2.9" y="0.900003125"/>
-<vertex x="-3.05" y="-0.000003125"/>
-<vertex x="-2.900003125" y="-0.949996875"/>
-</polygon>
-</package>
-<package name="PANASONIC_E" urn="urn:adsk.eagle:footprint:22928/1" library_version="11">
-<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E&lt;/b&gt;</description>
-<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="51"/>
-<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="51"/>
-<wire x1="4.1" y1="1.8" x2="4.1" y2="-1.8" width="0.1016" layer="51"/>
-<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="51"/>
-<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="51"/>
-<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="4.1" width="0.1016" layer="51"/>
-<wire x1="-4.1" y1="0.9" x2="-4.1" y2="4.1" width="0.1016" layer="21"/>
-<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="21"/>
-<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="21"/>
-<wire x1="4.1" y1="1.8" x2="4.1" y2="0.9" width="0.1016" layer="21"/>
-<wire x1="4.1" y1="-0.9" x2="4.1" y2="-1.8" width="0.1016" layer="21"/>
-<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="21"/>
-<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="21"/>
-<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="-0.9" width="0.1016" layer="21"/>
-<wire x1="-2.2" y1="3.25" x2="-2.2" y2="-3.25" width="0.1016" layer="51"/>
-<wire x1="-3.85" y1="0.9" x2="3.85" y2="0.9" width="0.1016" layer="21" curve="-153.684915"/>
-<wire x1="-3.85" y1="-0.9" x2="3.85" y2="-0.9" width="0.1016" layer="21" curve="153.684915"/>
-<circle x="0" y="0" radius="3.95" width="0.1016" layer="51"/>
-<smd name="-" x="-3" y="0" dx="3.8" dy="1.4" layer="1"/>
-<smd name="+" x="3" y="0" dx="3.8" dy="1.4" layer="1"/>
-<text x="-1.8" y="1.3" size="1.016" layer="25">&gt;NAME</text>
-<text x="-1.8" y="-2.225" size="1.016" layer="27">&gt;VALUE</text>
-<rectangle x1="-4.5" y1="-0.35" x2="-3.8" y2="0.35" layer="51"/>
-<rectangle x1="3.8" y1="-0.35" x2="4.5" y2="0.35" layer="51"/>
-<polygon width="0.1016" layer="51">
-<vertex x="-2.94999375" y="-2.550003125"/>
-<vertex x="-2.25" y="-3.199996875"/>
-<vertex x="-2.25" y="3.2"/>
-<vertex x="-2.99999375" y="2.50000625"/>
-<vertex x="-3.600003125" y="1.49999375"/>
-<vertex x="-3.85" y="0.650003125"/>
-<vertex x="-3.85" y="-0.65"/>
-<vertex x="-3.550003125" y="-1.59999375"/>
-</polygon>
-</package>
-<package name="PANASONIC_F" urn="urn:adsk.eagle:footprint:22929/1" library_version="11">
-<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package F&lt;/b&gt;</description>
-<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="51"/>
-<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="51"/>
-<wire x1="4.1" y1="1.8" x2="4.1" y2="-1.8" width="0.1016" layer="51"/>
-<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="51"/>
-<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="51"/>
-<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="4.1" width="0.1016" layer="51"/>
-<wire x1="-4.1" y1="1" x2="-4.1" y2="4.1" width="0.1016" layer="21"/>
-<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="21"/>
-<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="21"/>
-<wire x1="4.1" y1="1.8" x2="4.1" y2="1" width="0.1016" layer="21"/>
-<wire x1="4.1" y1="-1" x2="4.1" y2="-1.8" width="0.1016" layer="21"/>
-<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="21"/>
-<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="21"/>
-<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="-1" width="0.1016" layer="21"/>
-<wire x1="-2.2" y1="3.25" x2="-2.2" y2="-3.25" width="0.1016" layer="51"/>
-<wire x1="-3.85" y1="0.9" x2="3.85" y2="0.9" width="0.1016" layer="21" curve="-153.684915"/>
-<wire x1="-3.85" y1="-0.9" x2="3.85" y2="-0.9" width="0.1016" layer="21" curve="153.684915"/>
-<circle x="0" y="0" radius="4" width="0.001" layer="51"/>
-<circle x="0" y="0" radius="3.95" width="0.1016" layer="51"/>
-<smd name="-" x="-3.55" y="0" dx="4" dy="1.6" layer="1"/>
-<smd name="+" x="3.55" y="0" dx="4" dy="1.6" layer="1"/>
-<text x="-1.75" y="1.3" size="1.016" layer="25">&gt;NAME</text>
-<text x="-1.75" y="-2.375" size="1.016" layer="27">&gt;VALUE</text>
-<rectangle x1="-4.85" y1="-0.45" x2="-3.9" y2="0.45" layer="51"/>
-<rectangle x1="3.9" y1="-0.45" x2="4.85" y2="0.45" layer="51"/>
-<polygon width="0.1016" layer="51">
-<vertex x="-2.94999375" y="-2.550003125"/>
-<vertex x="-2.25" y="-3.199996875"/>
-<vertex x="-2.25" y="3.2"/>
-<vertex x="-2.99999375" y="2.50000625"/>
-<vertex x="-3.600003125" y="1.49999375"/>
-<vertex x="-3.85" y="0.650003125"/>
-<vertex x="-3.85" y="-0.65"/>
-<vertex x="-3.550003125" y="-1.59999375"/>
-</polygon>
-</package>
-<package name="PANASONIC_G" urn="urn:adsk.eagle:footprint:22930/1" library_version="11">
-<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package G&lt;/b&gt;</description>
-<wire x1="-5.1" y1="5.1" x2="2.8" y2="5.1" width="0.1016" layer="51"/>
-<wire x1="2.8" y1="5.1" x2="5.1" y2="2.8" width="0.1016" layer="51"/>
-<wire x1="5.1" y1="2.8" x2="5.1" y2="-2.8" width="0.1016" layer="51"/>
-<wire x1="5.1" y1="-2.8" x2="2.8" y2="-5.1" width="0.1016" layer="51"/>
-<wire x1="2.8" y1="-5.1" x2="-5.1" y2="-5.1" width="0.1016" layer="51"/>
-<wire x1="-5.1" y1="-5.1" x2="-5.1" y2="5.1" width="0.1016" layer="51"/>
-<wire x1="-5.1" y1="1" x2="-5.1" y2="5.1" width="0.1016" layer="21"/>
-<wire x1="-5.1" y1="5.1" x2="2.8" y2="5.1" width="0.1016" layer="21"/>
-<wire x1="2.8" y1="5.1" x2="5.1" y2="2.8" width="0.1016" layer="21"/>
-<wire x1="5.1" y1="2.8" x2="5.1" y2="1" width="0.1016" layer="21"/>
-<wire x1="5.1" y1="-1" x2="5.1" y2="-2.8" width="0.1016" layer="21"/>
-<wire x1="5.1" y1="-2.8" x2="2.8" y2="-5.1" width="0.1016" layer="21"/>
-<wire x1="2.8" y1="-5.1" x2="-5.1" y2="-5.1" width="0.1016" layer="21"/>
-<wire x1="-5.1" y1="-5.1" x2="-5.1" y2="-1" width="0.1016" layer="21"/>
-<wire x1="-4.85" y1="-1" x2="4.85" y2="-1" width="0.1016" layer="21" curve="156.699401"/>
-<wire x1="-4.85" y1="1" x2="4.85" y2="1" width="0.1016" layer="21" curve="-156.699401"/>
-<wire x1="-3.25" y1="3.7" x2="-3.25" y2="-3.65" width="0.1016" layer="51"/>
-<circle x="0" y="0" radius="4.95" width="0.1016" layer="51"/>
-<smd name="-" x="-4.25" y="0" dx="3.9" dy="1.6" layer="1"/>
-<smd name="+" x="4.25" y="0" dx="3.9" dy="1.6" layer="1"/>
-<text x="-2.55" y="1.75" size="1.016" layer="25">&gt;NAME</text>
-<text x="-2.55" y="-2.675" size="1.016" layer="27">&gt;VALUE</text>
-<rectangle x1="-5.85" y1="-0.45" x2="-4.9" y2="0.45" layer="51"/>
-<rectangle x1="4.9" y1="-0.45" x2="5.85" y2="0.45" layer="51"/>
-<polygon width="0.1016" layer="51">
-<vertex x="-4.05" y="-2.750003125"/>
-<vertex x="-3.300003125" y="-3.6"/>
-<vertex x="-3.3" y="-3.6"/>
-<vertex x="-3.3" y="3.6"/>
-<vertex x="-3.300003125" y="3.6"/>
-<vertex x="-4.05" y="2.750003125"/>
-<vertex x="-4.65" y="1.54999375"/>
-<vertex x="-4.85" y="0.450003125"/>
-<vertex x="-4.85" y="-0.450003125"/>
-<vertex x="-4.65" y="-1.54999375"/>
-</polygon>
-</package>
 <package name="TT2D5L" urn="urn:adsk.eagle:footprint:22931/1" library_version="11">
 <description>&lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
 diameter 5 mm, grid 2.54 mm</description>
@@ -10511,29 +10258,6 @@ Source: e_os_all.pdf</description>
 <text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SANYO-OSCON_C6" urn="urn:adsk.eagle:footprint:22948/1" library_version="11">
-<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
-Source: e_os_all.pdf</description>
-<circle x="0" y="0" radius="3.05" width="0.2032" layer="21"/>
-<pad name="-" x="-1.25" y="0" drill="0.7" diameter="1.27"/>
-<pad name="+" x="1.25" y="0" drill="0.7" diameter="1.27"/>
-<text x="-1.905" y="3.175" size="1.27" layer="25">&gt;NAME</text>
-<text x="-1.905" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
-<polygon width="0.2032" layer="21">
-<vertex x="-2.4434" y="-1.718196875"/>
-<vertex x="-2.150003125" y="-2.1"/>
-<vertex x="-2.15" y="-2.1"/>
-<vertex x="-2.15" y="2.1"/>
-<vertex x="-2.43356875" y="1.75838125"/>
-<vertex x="-2.6646125" y="1.379275"/>
-<vertex x="-2.8382625" y="0.9706875"/>
-<vertex x="-2.950853125" y="0.5412375"/>
-<vertex x="-3.000003125" y="0.099996875"/>
-<vertex x="-2.960471875" y="-0.3798875"/>
-<vertex x="-2.85283125" y="-0.84924375"/>
-<vertex x="-2.679290625" y="-1.29839375"/>
-</polygon>
-</package>
 <package name="SANYO-OSCON_D" urn="urn:adsk.eagle:footprint:22949/1" library_version="11">
 <description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
 Source: e_os_all.pdf</description>
@@ -10574,102 +10298,6 @@ Source: e_os_all.pdf</description>
 <text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SANYO-OSCON_E12" urn="urn:adsk.eagle:footprint:22953/1" library_version="11">
-<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
-Source: e_os_all.pdf</description>
-<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
-<pad name="-" x="-1.75" y="0" drill="0.8" diameter="1.27"/>
-<pad name="+" x="1.75" y="0" drill="0.8" diameter="1.27"/>
-<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
-<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
-<polygon width="0.2032" layer="21">
-<vertex x="-3.2506" y="-1.934578125"/>
-<vertex x="-2.974659375" y="-2.3602375"/>
-<vertex x="-2.65" y="-2.75"/>
-<vertex x="-2.65" y="2.7"/>
-<vertex x="-2.9741375" y="2.31960625"/>
-<vertex x="-3.249890625" y="1.902821875"/>
-<vertex x="-3.473225" y="1.4557375"/>
-<vertex x="-3.640853125" y="0.98490625"/>
-<vertex x="-3.7503125" y="0.49729375"/>
-<vertex x="-3.8" y="0.00000625"/>
-<vertex x="-3.75055" y="-0.504865625"/>
-<vertex x="-3.641321875" y="-1.000240625"/>
-<vertex x="-3.473884375" y="-1.479065625"/>
-</polygon>
-</package>
-<package name="SANYO-OSCON_E13" urn="urn:adsk.eagle:footprint:22954/1" library_version="11">
-<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
-Source: e_os_all.pdf</description>
-<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
-<pad name="-" x="-1.75" y="0" drill="0.8" diameter="1.27"/>
-<pad name="+" x="1.75" y="0" drill="0.8" diameter="1.27"/>
-<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
-<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
-<polygon width="0.2032" layer="21">
-<vertex x="-3.2506" y="-1.934578125"/>
-<vertex x="-2.974659375" y="-2.3602375"/>
-<vertex x="-2.65" y="-2.75"/>
-<vertex x="-2.65" y="2.7"/>
-<vertex x="-2.9741375" y="2.31960625"/>
-<vertex x="-3.249890625" y="1.902821875"/>
-<vertex x="-3.473225" y="1.4557375"/>
-<vertex x="-3.640853125" y="0.98490625"/>
-<vertex x="-3.7503125" y="0.49729375"/>
-<vertex x="-3.8" y="0.00000625"/>
-<vertex x="-3.75055" y="-0.504865625"/>
-<vertex x="-3.641321875" y="-1.000240625"/>
-<vertex x="-3.473884375" y="-1.479065625"/>
-</polygon>
-</package>
-<package name="SANYO-OSCON_E7" urn="urn:adsk.eagle:footprint:22955/1" library_version="11">
-<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
-Source: e_os_all.pdf</description>
-<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
-<pad name="-" x="-1.75" y="0" drill="0.7" diameter="1.27"/>
-<pad name="+" x="1.75" y="0" drill="0.7" diameter="1.27"/>
-<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
-<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
-<polygon width="0.2032" layer="21">
-<vertex x="-2.985296875" y="-2.404609375"/>
-<vertex x="-2.65" y="-2.799996875"/>
-<vertex x="-2.65" y="2.8"/>
-<vertex x="-2.987340625" y="2.4059125"/>
-<vertex x="-3.27456875" y="1.97388125"/>
-<vertex x="-3.507425" y="1.51031875"/>
-<vertex x="-3.68251875" y="1.02200625"/>
-<vertex x="-3.797271875" y="0.51608125"/>
-<vertex x="-3.85" y="0.000003125"/>
-<vertex x="-3.794921875" y="-0.5155"/>
-<vertex x="-3.6788375" y="-1.0207625"/>
-<vertex x="-3.503415625" y="-1.508603125"/>
-<vertex x="-3.271121875" y="-1.972096875"/>
-</polygon>
-</package>
-<package name="SANYO-OSCON_E9" urn="urn:adsk.eagle:footprint:22956/1" library_version="11">
-<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
-Source: e_os_all.pdf</description>
-<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
-<pad name="-" x="-1.75" y="0" drill="0.8" diameter="1.27"/>
-<pad name="+" x="1.75" y="0" drill="0.8" diameter="1.27"/>
-<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
-<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
-<polygon width="0.2032" layer="21">
-<vertex x="-3.2506" y="-1.934578125"/>
-<vertex x="-2.974659375" y="-2.3602375"/>
-<vertex x="-2.65" y="-2.75"/>
-<vertex x="-2.65" y="2.7"/>
-<vertex x="-2.9741375" y="2.31960625"/>
-<vertex x="-3.249890625" y="1.902821875"/>
-<vertex x="-3.473225" y="1.4557375"/>
-<vertex x="-3.640853125" y="0.98490625"/>
-<vertex x="-3.7503125" y="0.49729375"/>
-<vertex x="-3.8" y="0.00000625"/>
-<vertex x="-3.75055" y="-0.504865625"/>
-<vertex x="-3.641321875" y="-1.000240625"/>
-<vertex x="-3.473884375" y="-1.479065625"/>
-</polygon>
-</package>
 <package name="SANYO-OSCON_F" urn="urn:adsk.eagle:footprint:22957/1" library_version="11">
 <description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
 Source: e_os_all.pdf</description>
@@ -10700,55 +10328,6 @@ Source: e_os_all.pdf</description>
 <text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="SANYO-OSCON_F13" urn="urn:adsk.eagle:footprint:22960/1" library_version="11">
-<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
-Source: e_os_all.pdf</description>
-<circle x="0" y="0" radius="4.9" width="0.2032" layer="21"/>
-<pad name="-" x="-2.5" y="0" drill="0.8" diameter="1.27"/>
-<pad name="+" x="2.5" y="0" drill="0.8" diameter="1.27"/>
-<text x="-2.54" y="1.905" size="1.27" layer="25">&gt;NAME</text>
-<text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
-<polygon width="0.2032" layer="21">
-<vertex x="-3.8059875" y="-2.919521875"/>
-<vertex x="-3.4" y="-3.4"/>
-<vertex x="-3.4" y="3.45"/>
-<vertex x="-3.81100625" y="2.962965625"/>
-<vertex x="-4.160115625" y="2.42978125"/>
-<vertex x="-4.4421875" y="1.858290625"/>
-<vertex x="-4.65305625" y="1.256915625"/>
-<vertex x="-4.78966875" y="0.634428125"/>
-<vertex x="-4.85" y="-0.000009375"/>
-<vertex x="-4.784278125" y="-0.62559375"/>
-<vertex x="-4.644521875" y="-1.2389125"/>
-<vertex x="-4.432715625" y="-1.831221875"/>
-<vertex x="-4.1518625" y="-2.3941125"/>
-</polygon>
-</package>
-<package name="SANYO-OSCON_F8" urn="urn:adsk.eagle:footprint:22961/1" library_version="11">
-<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
-Source: e_os_all.pdf</description>
-<circle x="0" y="0" radius="4.9" width="0.2032" layer="21"/>
-<pad name="-" x="-2.5" y="0" drill="0.7" diameter="1.27"/>
-<pad name="+" x="2.5" y="0" drill="0.7" diameter="1.27"/>
-<text x="-2.54" y="1.905" size="1.27" layer="25">&gt;NAME</text>
-<text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
-<polygon width="0.2032" layer="21">
-<vertex x="-3.965959375" y="-2.783903125"/>
-<vertex x="-3.600003125" y="-3.25"/>
-<vertex x="-3.6" y="-3.25"/>
-<vertex x="-3.6" y="3.2"/>
-<vertex x="-3.9658" y="2.743428125"/>
-<vertex x="-4.273709375" y="2.245971875"/>
-<vertex x="-4.519203125" y="1.7149125"/>
-<vertex x="-4.698671875" y="1.15806875"/>
-<vertex x="-4.809475" y="0.583628125"/>
-<vertex x="-4.85" y="-0.00000625"/>
-<vertex x="-4.809309375" y="-0.5911875"/>
-<vertex x="-4.698490625" y="-1.17333125"/>
-<vertex x="-4.519140625" y="-1.738121875"/>
-<vertex x="-4.273796875" y="-2.277540625"/>
-</polygon>
-</package>
 <package name="SANYO-OSCON_G" urn="urn:adsk.eagle:footprint:22962/1" library_version="11">
 <description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
 Source: e_os_all.pdf</description>
@@ -10769,6 +10348,360 @@ Source: e_os_all.pdf</description>
 <text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
 </package>
+<package name="PANASONIC_A" urn="urn:adsk.eagle:footprint:22924/1" library_version="11">
+<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package A&lt;/b&gt;</description>
+<wire x1="-1.6" y1="1.6" x2="0.8" y2="1.6" width="0.1016" layer="51"/>
+<wire x1="0.8" y1="1.6" x2="1.6" y2="0.8" width="0.1016" layer="51"/>
+<wire x1="1.6" y1="0.8" x2="1.6" y2="-0.8" width="0.1016" layer="51"/>
+<wire x1="1.6" y1="-0.8" x2="0.8" y2="-1.6" width="0.1016" layer="51"/>
+<wire x1="0.8" y1="-1.6" x2="-1.6" y2="-1.6" width="0.1016" layer="51"/>
+<wire x1="-1.6" y1="-1.6" x2="-1.6" y2="1.6" width="0.1016" layer="51"/>
+<wire x1="-1.1" y1="0.95" x2="1.1" y2="0.95" width="0.1016" layer="21" curve="-98.369832"/>
+<wire x1="-1.1" y1="-0.95" x2="1.15" y2="-0.9" width="0.1016" layer="21" curve="101.144396"/>
+<wire x1="-1.6" y1="0.95" x2="-1.6" y2="1.6" width="0.1016" layer="21"/>
+<wire x1="-1.6" y1="1.6" x2="0.8" y2="1.6" width="0.1016" layer="21"/>
+<wire x1="0.8" y1="1.6" x2="1.5" y2="0.9" width="0.1016" layer="21"/>
+<wire x1="1.5" y1="-0.9" x2="0.8" y2="-1.6" width="0.1016" layer="21"/>
+<wire x1="0.8" y1="-1.6" x2="-1.6" y2="-1.6" width="0.1016" layer="21"/>
+<wire x1="-1.6" y1="-1.6" x2="-1.6" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="-0.8" y1="1.2" x2="-0.8" y2="-1.2" width="0.1016" layer="51"/>
+<circle x="0" y="0" radius="1.45" width="0.1016" layer="51"/>
+<smd name="-" x="-1.3" y="0" dx="2" dy="1.5" layer="1"/>
+<smd name="+" x="1.3" y="0" dx="2" dy="1.5" layer="1"/>
+<text x="-1.65" y="1.75" size="1.016" layer="25">&gt;NAME</text>
+<text x="-1.65" y="-2.825" size="1.016" layer="27">&gt;VALUE</text>
+<rectangle x1="-1.8" y1="-0.3" x2="-1.45" y2="0.3" layer="51"/>
+<rectangle x1="1.45" y1="-0.3" x2="1.8" y2="0.3" layer="51"/>
+<polygon width="0.1016" layer="51">
+<vertex x="-0.85" y="1.1"/>
+<vertex x="-1.15" y="0.8"/>
+<vertex x="-1.35" y="0.3"/>
+<vertex x="-1.35" y="-0.3"/>
+<vertex x="-1.15" y="-0.8"/>
+<vertex x="-0.85" y="-1.1"/>
+<vertex x="-0.85" y="1.05"/>
+</polygon>
+</package>
+<package name="PANASONIC_B" urn="urn:adsk.eagle:footprint:22925/1" library_version="11">
+<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B&lt;/b&gt;</description>
+<wire x1="-2.1" y1="2.1" x2="1" y2="2.1" width="0.1016" layer="51"/>
+<wire x1="1" y1="2.1" x2="2.1" y2="1" width="0.1016" layer="51"/>
+<wire x1="2.1" y1="1" x2="2.1" y2="-1" width="0.1016" layer="51"/>
+<wire x1="2.1" y1="-1" x2="1" y2="-2.1" width="0.1016" layer="51"/>
+<wire x1="1" y1="-2.1" x2="-2.1" y2="-2.1" width="0.1016" layer="51"/>
+<wire x1="-2.1" y1="-2.1" x2="-2.1" y2="2.1" width="0.1016" layer="51"/>
+<wire x1="-1.75" y1="0.85" x2="1.75" y2="0.85" width="0.1016" layer="21" curve="-128.186984"/>
+<wire x1="-1.75" y1="-0.85" x2="1.75" y2="-0.85" width="0.1016" layer="21" curve="128.186984"/>
+<wire x1="-2.1" y1="0.85" x2="-2.1" y2="2.1" width="0.1016" layer="21"/>
+<wire x1="-2.1" y1="2.1" x2="1" y2="2.1" width="0.1016" layer="21"/>
+<wire x1="1" y1="2.1" x2="2.1" y2="1" width="0.1016" layer="21"/>
+<wire x1="2.1" y1="-1" x2="1" y2="-2.1" width="0.1016" layer="21"/>
+<wire x1="1" y1="-2.1" x2="-2.1" y2="-2.1" width="0.1016" layer="21"/>
+<wire x1="-2.1" y1="-2.1" x2="-2.1" y2="-0.85" width="0.1016" layer="21"/>
+<wire x1="-1.2" y1="1.5" x2="-1.2" y2="-1.5" width="0.1016" layer="51"/>
+<circle x="0" y="0" radius="1.95" width="0.1016" layer="51"/>
+<smd name="-" x="-1.6" y="0" dx="2.2" dy="1.4" layer="1"/>
+<smd name="+" x="1.6" y="0" dx="2.2" dy="1.4" layer="1"/>
+<text x="-2.15" y="2.3" size="1.016" layer="25">&gt;NAME</text>
+<text x="-2.15" y="-3.275" size="1.016" layer="27">&gt;VALUE</text>
+<rectangle x1="-2.3" y1="-0.35" x2="-1.85" y2="0.35" layer="51"/>
+<rectangle x1="1.9" y1="-0.35" x2="2.3" y2="0.35" layer="51"/>
+<polygon width="0.1016" layer="51">
+<vertex x="-1.25" y="1.45"/>
+<vertex x="-1.7" y="0.85"/>
+<vertex x="-1.85" y="0.35"/>
+<vertex x="-1.85" y="-0.4"/>
+<vertex x="-1.7" y="-0.85"/>
+<vertex x="-1.25" y="-1.4"/>
+<vertex x="-1.25" y="1.4"/>
+</polygon>
+</package>
+<package name="PANASONIC_C" urn="urn:adsk.eagle:footprint:22926/1" library_version="11">
+<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package C&lt;/b&gt;</description>
+<wire x1="-2.6" y1="2.6" x2="1.25" y2="2.6" width="0.1016" layer="51"/>
+<wire x1="1.25" y1="2.6" x2="2.6" y2="1.25" width="0.1016" layer="51"/>
+<wire x1="2.6" y1="1.25" x2="2.6" y2="-1.25" width="0.1016" layer="51"/>
+<wire x1="2.6" y1="-1.25" x2="1.25" y2="-2.6" width="0.1016" layer="51"/>
+<wire x1="1.25" y1="-2.6" x2="-2.6" y2="-2.6" width="0.1016" layer="51"/>
+<wire x1="-2.6" y1="-2.6" x2="-2.6" y2="2.6" width="0.1016" layer="51"/>
+<wire x1="-2.6" y1="0.95" x2="-2.6" y2="2.6" width="0.1016" layer="21"/>
+<wire x1="-2.6" y1="2.6" x2="1.25" y2="2.6" width="0.1016" layer="21"/>
+<wire x1="1.25" y1="2.6" x2="2.6" y2="1.25" width="0.1016" layer="21"/>
+<wire x1="2.6" y1="1.25" x2="2.6" y2="0.95" width="0.1016" layer="21"/>
+<wire x1="2.6" y1="-0.95" x2="2.6" y2="-1.25" width="0.1016" layer="21"/>
+<wire x1="2.6" y1="-1.25" x2="1.25" y2="-2.6" width="0.1016" layer="21"/>
+<wire x1="1.25" y1="-2.6" x2="-2.6" y2="-2.6" width="0.1016" layer="21"/>
+<wire x1="-2.6" y1="-2.6" x2="-2.6" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="-2.3" y1="0.85" x2="2.3" y2="0.85" width="0.1016" layer="21" curve="-139.434882"/>
+<wire x1="-2.3" y1="-0.85" x2="2.3" y2="-0.85" width="0.1016" layer="21" curve="139.434882"/>
+<wire x1="-1.55" y1="1.85" x2="-1.55" y2="-1.85" width="0.1016" layer="51"/>
+<circle x="0" y="0" radius="2.45" width="0.1016" layer="51"/>
+<smd name="-" x="-2.05" y="0" dx="2.6" dy="1.4" layer="1"/>
+<smd name="+" x="2.05" y="0" dx="2.6" dy="1.4" layer="1"/>
+<text x="-2.6" y="2.75" size="1.016" layer="25">&gt;NAME</text>
+<text x="-2.65" y="-3.775" size="1.016" layer="27">&gt;VALUE</text>
+<rectangle x1="-2.95" y1="-0.35" x2="-2.4" y2="0.35" layer="51"/>
+<rectangle x1="2.4" y1="-0.35" x2="2.95" y2="0.35" layer="51"/>
+<polygon width="0.1016" layer="51">
+<vertex x="-1.6" y="1.8"/>
+<vertex x="-2" y="1.35"/>
+<vertex x="-2.25" y="0.75"/>
+<vertex x="-2.45" y="0.05"/>
+<vertex x="-2.25" y="-0.75"/>
+<vertex x="-1.95" y="-1.35"/>
+<vertex x="-1.6" y="-1.8"/>
+</polygon>
+</package>
+<package name="PANASONIC_D" urn="urn:adsk.eagle:footprint:22927/1" library_version="11">
+<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package D&lt;/b&gt;</description>
+<wire x1="-3.25" y1="3.25" x2="1.55" y2="3.25" width="0.1016" layer="51"/>
+<wire x1="1.55" y1="3.25" x2="3.25" y2="1.55" width="0.1016" layer="51"/>
+<wire x1="3.25" y1="1.55" x2="3.25" y2="-1.55" width="0.1016" layer="51"/>
+<wire x1="3.25" y1="-1.55" x2="1.55" y2="-3.25" width="0.1016" layer="51"/>
+<wire x1="1.55" y1="-3.25" x2="-3.25" y2="-3.25" width="0.1016" layer="51"/>
+<wire x1="-3.25" y1="-3.25" x2="-3.25" y2="3.25" width="0.1016" layer="51"/>
+<wire x1="-3.25" y1="0.95" x2="-3.25" y2="3.25" width="0.1016" layer="21"/>
+<wire x1="-3.25" y1="3.25" x2="1.55" y2="3.25" width="0.1016" layer="21"/>
+<wire x1="1.55" y1="3.25" x2="3.25" y2="1.55" width="0.1016" layer="21"/>
+<wire x1="3.25" y1="1.55" x2="3.25" y2="0.95" width="0.1016" layer="21"/>
+<wire x1="3.25" y1="-0.95" x2="3.25" y2="-1.55" width="0.1016" layer="21"/>
+<wire x1="3.25" y1="-1.55" x2="1.55" y2="-3.25" width="0.1016" layer="21"/>
+<wire x1="1.55" y1="-3.25" x2="-3.25" y2="-3.25" width="0.1016" layer="21"/>
+<wire x1="-3.25" y1="-3.25" x2="-3.25" y2="-0.95" width="0.1016" layer="21"/>
+<wire x1="-2.95" y1="0.95" x2="2.95" y2="0.95" width="0.1016" layer="21" curve="-144.299363"/>
+<wire x1="-2.95" y1="-0.95" x2="2.95" y2="-0.95" width="0.1016" layer="21" curve="144.299363"/>
+<wire x1="-2.1" y1="2.25" x2="-2.1" y2="-2.2" width="0.1016" layer="51"/>
+<circle x="0" y="0" radius="3.1" width="0.1016" layer="51"/>
+<smd name="-" x="-2.4" y="0" dx="3" dy="1.4" layer="1"/>
+<smd name="+" x="2.4" y="0" dx="3" dy="1.4" layer="1"/>
+<text x="-1.75" y="1" size="1.016" layer="25">&gt;NAME</text>
+<text x="-1.75" y="-1.975" size="1.016" layer="27">&gt;VALUE</text>
+<rectangle x1="-3.65" y1="-0.35" x2="-3.05" y2="0.35" layer="51"/>
+<rectangle x1="3.05" y1="-0.35" x2="3.65" y2="0.35" layer="51"/>
+<polygon width="0.1016" layer="51">
+<vertex x="-2.15" y="2.15"/>
+<vertex x="-2.6" y="1.6"/>
+<vertex x="-2.9" y="0.9"/>
+<vertex x="-3.05" y="0"/>
+<vertex x="-2.9" y="-0.95"/>
+<vertex x="-2.55" y="-1.65"/>
+<vertex x="-2.15" y="-2.15"/>
+<vertex x="-2.15" y="2.1"/>
+</polygon>
+</package>
+<package name="PANASONIC_E" urn="urn:adsk.eagle:footprint:22928/1" library_version="11">
+<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E&lt;/b&gt;</description>
+<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="51"/>
+<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="51"/>
+<wire x1="4.1" y1="1.8" x2="4.1" y2="-1.8" width="0.1016" layer="51"/>
+<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="51"/>
+<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="51"/>
+<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="4.1" width="0.1016" layer="51"/>
+<wire x1="-4.1" y1="0.9" x2="-4.1" y2="4.1" width="0.1016" layer="21"/>
+<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="21"/>
+<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="21"/>
+<wire x1="4.1" y1="1.8" x2="4.1" y2="0.9" width="0.1016" layer="21"/>
+<wire x1="4.1" y1="-0.9" x2="4.1" y2="-1.8" width="0.1016" layer="21"/>
+<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="21"/>
+<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="21"/>
+<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="-0.9" width="0.1016" layer="21"/>
+<wire x1="-2.2" y1="3.25" x2="-2.2" y2="-3.25" width="0.1016" layer="51"/>
+<wire x1="-3.85" y1="0.9" x2="3.85" y2="0.9" width="0.1016" layer="21" curve="-153.684915"/>
+<wire x1="-3.85" y1="-0.9" x2="3.85" y2="-0.9" width="0.1016" layer="21" curve="153.684915"/>
+<circle x="0" y="0" radius="3.95" width="0.1016" layer="51"/>
+<smd name="-" x="-3" y="0" dx="3.8" dy="1.4" layer="1"/>
+<smd name="+" x="3" y="0" dx="3.8" dy="1.4" layer="1"/>
+<text x="-1.8" y="1.3" size="1.016" layer="25">&gt;NAME</text>
+<text x="-1.8" y="-2.225" size="1.016" layer="27">&gt;VALUE</text>
+<rectangle x1="-4.5" y1="-0.35" x2="-3.8" y2="0.35" layer="51"/>
+<rectangle x1="3.8" y1="-0.35" x2="4.5" y2="0.35" layer="51"/>
+<polygon width="0.1016" layer="51">
+<vertex x="-2.25" y="3.2"/>
+<vertex x="-3" y="2.5"/>
+<vertex x="-3.6" y="1.5"/>
+<vertex x="-3.85" y="0.65"/>
+<vertex x="-3.85" y="-0.65"/>
+<vertex x="-3.55" y="-1.6"/>
+<vertex x="-2.95" y="-2.55"/>
+<vertex x="-2.25" y="-3.2"/>
+<vertex x="-2.25" y="3.15"/>
+</polygon>
+</package>
+<package name="PANASONIC_F" urn="urn:adsk.eagle:footprint:22929/1" library_version="11">
+<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package F&lt;/b&gt;</description>
+<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="51"/>
+<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="51"/>
+<wire x1="4.1" y1="1.8" x2="4.1" y2="-1.8" width="0.1016" layer="51"/>
+<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="51"/>
+<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="51"/>
+<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="4.1" width="0.1016" layer="51"/>
+<wire x1="-4.1" y1="1" x2="-4.1" y2="4.1" width="0.1016" layer="21"/>
+<wire x1="-4.1" y1="4.1" x2="1.8" y2="4.1" width="0.1016" layer="21"/>
+<wire x1="1.8" y1="4.1" x2="4.1" y2="1.8" width="0.1016" layer="21"/>
+<wire x1="4.1" y1="1.8" x2="4.1" y2="1" width="0.1016" layer="21"/>
+<wire x1="4.1" y1="-1" x2="4.1" y2="-1.8" width="0.1016" layer="21"/>
+<wire x1="4.1" y1="-1.8" x2="1.8" y2="-4.1" width="0.1016" layer="21"/>
+<wire x1="1.8" y1="-4.1" x2="-4.1" y2="-4.1" width="0.1016" layer="21"/>
+<wire x1="-4.1" y1="-4.1" x2="-4.1" y2="-1" width="0.1016" layer="21"/>
+<wire x1="-2.2" y1="3.25" x2="-2.2" y2="-3.25" width="0.1016" layer="51"/>
+<wire x1="-3.85" y1="0.9" x2="3.85" y2="0.9" width="0.1016" layer="21" curve="-153.684915"/>
+<wire x1="-3.85" y1="-0.9" x2="3.85" y2="-0.9" width="0.1016" layer="21" curve="153.684915"/>
+<circle x="0" y="0" radius="4" width="0.001" layer="51"/>
+<circle x="0" y="0" radius="3.95" width="0.1016" layer="51"/>
+<smd name="-" x="-3.55" y="0" dx="4" dy="1.6" layer="1"/>
+<smd name="+" x="3.55" y="0" dx="4" dy="1.6" layer="1"/>
+<text x="-1.75" y="1.3" size="1.016" layer="25">&gt;NAME</text>
+<text x="-1.75" y="-2.375" size="1.016" layer="27">&gt;VALUE</text>
+<rectangle x1="-4.85" y1="-0.45" x2="-3.9" y2="0.45" layer="51"/>
+<rectangle x1="3.9" y1="-0.45" x2="4.85" y2="0.45" layer="51"/>
+<polygon width="0.1016" layer="51">
+<vertex x="-2.25" y="3.2"/>
+<vertex x="-3" y="2.5"/>
+<vertex x="-3.6" y="1.5"/>
+<vertex x="-3.85" y="0.65"/>
+<vertex x="-3.85" y="-0.65"/>
+<vertex x="-3.55" y="-1.6"/>
+<vertex x="-2.95" y="-2.55"/>
+<vertex x="-2.25" y="-3.2"/>
+<vertex x="-2.25" y="3.15"/>
+</polygon>
+</package>
+<package name="PANASONIC_G" urn="urn:adsk.eagle:footprint:22930/1" library_version="11">
+<description>&lt;b&gt;Panasonic Aluminium Electrolytic Capacitor VS-Serie Package G&lt;/b&gt;</description>
+<wire x1="-5.1" y1="5.1" x2="2.8" y2="5.1" width="0.1016" layer="51"/>
+<wire x1="2.8" y1="5.1" x2="5.1" y2="2.8" width="0.1016" layer="51"/>
+<wire x1="5.1" y1="2.8" x2="5.1" y2="-2.8" width="0.1016" layer="51"/>
+<wire x1="5.1" y1="-2.8" x2="2.8" y2="-5.1" width="0.1016" layer="51"/>
+<wire x1="2.8" y1="-5.1" x2="-5.1" y2="-5.1" width="0.1016" layer="51"/>
+<wire x1="-5.1" y1="-5.1" x2="-5.1" y2="5.1" width="0.1016" layer="51"/>
+<wire x1="-5.1" y1="1" x2="-5.1" y2="5.1" width="0.1016" layer="21"/>
+<wire x1="-5.1" y1="5.1" x2="2.8" y2="5.1" width="0.1016" layer="21"/>
+<wire x1="2.8" y1="5.1" x2="5.1" y2="2.8" width="0.1016" layer="21"/>
+<wire x1="5.1" y1="2.8" x2="5.1" y2="1" width="0.1016" layer="21"/>
+<wire x1="5.1" y1="-1" x2="5.1" y2="-2.8" width="0.1016" layer="21"/>
+<wire x1="5.1" y1="-2.8" x2="2.8" y2="-5.1" width="0.1016" layer="21"/>
+<wire x1="2.8" y1="-5.1" x2="-5.1" y2="-5.1" width="0.1016" layer="21"/>
+<wire x1="-5.1" y1="-5.1" x2="-5.1" y2="-1" width="0.1016" layer="21"/>
+<wire x1="-4.85" y1="-1" x2="4.85" y2="-1" width="0.1016" layer="21" curve="156.699401"/>
+<wire x1="-4.85" y1="1" x2="4.85" y2="1" width="0.1016" layer="21" curve="-156.699401"/>
+<wire x1="-3.25" y1="3.7" x2="-3.25" y2="-3.65" width="0.1016" layer="51"/>
+<circle x="0" y="0" radius="4.95" width="0.1016" layer="51"/>
+<smd name="-" x="-4.25" y="0" dx="3.9" dy="1.6" layer="1"/>
+<smd name="+" x="4.25" y="0" dx="3.9" dy="1.6" layer="1"/>
+<text x="-2.55" y="1.75" size="1.016" layer="25">&gt;NAME</text>
+<text x="-2.55" y="-2.675" size="1.016" layer="27">&gt;VALUE</text>
+<rectangle x1="-5.85" y1="-0.45" x2="-4.9" y2="0.45" layer="51"/>
+<rectangle x1="4.9" y1="-0.45" x2="5.85" y2="0.45" layer="51"/>
+<polygon width="0.1016" layer="51">
+<vertex x="-3.3" y="3.6"/>
+<vertex x="-4.05" y="2.75"/>
+<vertex x="-4.65" y="1.55"/>
+<vertex x="-4.85" y="0.45"/>
+<vertex x="-4.85" y="-0.45"/>
+<vertex x="-4.65" y="-1.55"/>
+<vertex x="-4.05" y="-2.75"/>
+<vertex x="-3.3" y="-3.6"/>
+<vertex x="-3.3" y="3.55"/>
+</polygon>
+</package>
+<package name="SANYO-OSCON_C6" urn="urn:adsk.eagle:footprint:22948/1" library_version="11">
+<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
+Source: e_os_all.pdf</description>
+<circle x="0" y="0" radius="3.05" width="0.2032" layer="21"/>
+<pad name="-" x="-1.25" y="0" drill="0.7" diameter="1.27"/>
+<pad name="+" x="1.25" y="0" drill="0.7" diameter="1.27"/>
+<text x="-1.905" y="3.175" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.905" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="21">
+<vertex x="-2.15" y="2.1"/>
+<vertex x="-2.15" y="-2.1" curve="-41.039434"/>
+<vertex x="-3" y="0.1" curve="-41.67409"/>
+</polygon>
+</package>
+<package name="SANYO-OSCON_E12" urn="urn:adsk.eagle:footprint:22953/1" library_version="11">
+<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
+Source: e_os_all.pdf</description>
+<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
+<pad name="-" x="-1.75" y="0" drill="0.8" diameter="1.27"/>
+<pad name="+" x="1.75" y="0" drill="0.8" diameter="1.27"/>
+<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="21">
+<vertex x="-2.65" y="2.7"/>
+<vertex x="-2.65" y="-2.75" curve="-41.038922"/>
+<vertex x="-3.8" y="0" curve="-41.675057"/>
+</polygon>
+</package>
+<package name="SANYO-OSCON_E13" urn="urn:adsk.eagle:footprint:22954/1" library_version="11">
+<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
+Source: e_os_all.pdf</description>
+<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
+<pad name="-" x="-1.75" y="0" drill="0.8" diameter="1.27"/>
+<pad name="+" x="1.75" y="0" drill="0.8" diameter="1.27"/>
+<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="21">
+<vertex x="-2.65" y="2.7"/>
+<vertex x="-2.65" y="-2.75" curve="-41.038922"/>
+<vertex x="-3.8" y="0" curve="-41.675057"/>
+</polygon>
+</package>
+<package name="SANYO-OSCON_E7" urn="urn:adsk.eagle:footprint:22955/1" library_version="11">
+<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
+Source: e_os_all.pdf</description>
+<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
+<pad name="-" x="-1.75" y="0" drill="0.7" diameter="1.27"/>
+<pad name="+" x="1.75" y="0" drill="0.7" diameter="1.27"/>
+<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="21">
+<vertex x="-2.65" y="2.8"/>
+<vertex x="-2.65" y="-2.8" curve="-41.039891"/>
+<vertex x="-3.85" y="0" curve="-41.675747"/>
+</polygon>
+</package>
+<package name="SANYO-OSCON_E9" urn="urn:adsk.eagle:footprint:22956/1" library_version="11">
+<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
+Source: e_os_all.pdf</description>
+<circle x="0" y="0" radius="3.9" width="0.2032" layer="21"/>
+<pad name="-" x="-1.75" y="0" drill="0.8" diameter="1.27"/>
+<pad name="+" x="1.75" y="0" drill="0.8" diameter="1.27"/>
+<text x="-1.905" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.905" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="21">
+<vertex x="-2.65" y="2.7"/>
+<vertex x="-2.65" y="-2.75" curve="-41.038922"/>
+<vertex x="-3.8" y="0" curve="-41.675057"/>
+</polygon>
+</package>
+<package name="SANYO-OSCON_F13" urn="urn:adsk.eagle:footprint:22960/1" library_version="11">
+<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
+Source: e_os_all.pdf</description>
+<circle x="0" y="0" radius="4.9" width="0.2032" layer="21"/>
+<pad name="-" x="-2.5" y="0" drill="0.8" diameter="1.27"/>
+<pad name="+" x="2.5" y="0" drill="0.8" diameter="1.27"/>
+<text x="-2.54" y="1.905" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="21">
+<vertex x="-3.4" y="3.45"/>
+<vertex x="-3.4" y="-3.4" curve="-41.039359"/>
+<vertex x="-4.85" y="0" curve="-41.674636"/>
+</polygon>
+</package>
+<package name="SANYO-OSCON_F8" urn="urn:adsk.eagle:footprint:22961/1" library_version="11">
+<description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt;&lt;p&gt;
+Source: e_os_all.pdf</description>
+<circle x="0" y="0" radius="4.9" width="0.2032" layer="21"/>
+<pad name="-" x="-2.5" y="0" drill="0.7" diameter="1.27"/>
+<pad name="+" x="2.5" y="0" drill="0.7" diameter="1.27"/>
+<text x="-2.54" y="1.905" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.2032" layer="21">
+<vertex x="-3.6" y="3.2"/>
+<vertex x="-3.6" y="-3.25" curve="-41.039474"/>
+<vertex x="-4.85" y="0" curve="-41.675359"/>
+</polygon>
+</package>
 <package name="SANYO-OSCON_SMD_A5" urn="urn:adsk.eagle:footprint:22964/1" library_version="11">
 <description>&lt;b&gt;SANYO OSCON Capacitor&lt;/b&gt; SMD type with conductive polymer electrolyte&lt;p&gt;
 Source: e_os_all.pdf</description>
@@ -10784,17 +10717,9 @@ Source: e_os_all.pdf</description>
 <text x="-1.905" y="2.54" size="1.27" layer="25">&gt;NAME</text>
 <text x="-1.905" y="-3.81" size="1.27" layer="27">&gt;VALUE</text>
 <polygon width="0.2032" layer="51">
-<vertex x="-1.391771875" y="-1.117975"/>
 <vertex x="-1.2" y="-1.35"/>
-<vertex x="-1.2" y="1.349996875"/>
-<vertex x="-1.4021" y="1.1244875"/>
-<vertex x="-1.56663125" y="0.8703"/>
-<vertex x="-1.689609375" y="0.593603125"/>
-<vertex x="-1.768040625" y="0.301109375"/>
-<vertex x="-1.8" y="0"/>
-<vertex x="-1.756275" y="-0.29785"/>
-<vertex x="-1.672515625" y="-0.5869625"/>
-<vertex x="-1.550259375" y="-0.86203125"/>
+<vertex x="-1.2" y="1.35" curve="44.759919"/>
+<vertex x="-1.8" y="0" curve="39.027281"/>
 </polygon>
 </package>
 <package name="SANYO-OSCON_SMD_B6" urn="urn:adsk.eagle:footprint:22965/1" library_version="11">
@@ -10812,17 +10737,9 @@ Source: e_os_all.pdf</description>
 <text x="-2.54" y="3.175" size="1.27" layer="25">&gt;NAME</text>
 <text x="-2.54" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
 <polygon width="0.2032" layer="51">
-<vertex x="-1.835125" y="-1.36896875"/>
 <vertex x="-1.6" y="-1.65"/>
-<vertex x="-1.6" y="1.65"/>
-<vertex x="-1.8211125" y="1.36060625"/>
-<vertex x="-2.004221875" y="1.0458125"/>
-<vertex x="-2.14645625" y="0.71055"/>
-<vertex x="-2.245575" y="0.360090625"/>
-<vertex x="-2.300003125" y="-0.000003125"/>
-<vertex x="-2.261315625" y="-0.364371875"/>
-<vertex x="-2.169421875" y="-0.71908125"/>
-<vertex x="-2.026315625" y="-1.056390625"/>
+<vertex x="-1.6" y="1.65" curve="35.983944"/>
+<vertex x="-2.3" y="0" curve="42.321615"/>
 </polygon>
 </package>
 <package name="SANYO-OSCON_SMD_C6" urn="urn:adsk.eagle:footprint:22966/1" library_version="11">
@@ -10840,17 +10757,9 @@ Source: e_os_all.pdf</description>
 <text x="-3.175" y="3.81" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.175" y="-5.08" size="1.27" layer="27">&gt;VALUE</text>
 <polygon width="0.2032" layer="51">
-<vertex x="-2.432153125" y="-1.562975"/>
-<vertex x="-2.2" y="-1.9"/>
 <vertex x="-2.2" y="1.9"/>
-<vertex x="-2.424184375" y="1.559015625"/>
-<vertex x="-2.603740625" y="1.192578125"/>
-<vertex x="-2.735828125" y="0.806484375"/>
-<vertex x="-2.81835" y="0.4068375"/>
-<vertex x="-2.85" y="0.00001875"/>
-<vertex x="-2.82706875" y="-0.4085875"/>
-<vertex x="-2.748640625" y="-0.81025625"/>
-<vertex x="-2.616171875" y="-1.1974625"/>
+<vertex x="-2.2" y="-1.9" curve="-39.18521"/>
+<vertex x="-2.85" y="0" curve="-36.094684"/>
 </polygon>
 </package>
 <package name="SANYO-OSCON_SMD_E12" urn="urn:adsk.eagle:footprint:22967/1" library_version="11">
@@ -10868,19 +10777,9 @@ Source: e_os_all.pdf</description>
 <text x="-3.81" y="4.445" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.81" y="-5.715" size="1.27" layer="27">&gt;VALUE</text>
 <polygon width="0.2032" layer="51">
-<vertex x="-2.954125" y="-2.37413125"/>
 <vertex x="-2.6" y="-2.75"/>
-<vertex x="-2.6" y="2.75"/>
-<vertex x="-2.9532375" y="2.3735125"/>
-<vertex x="-3.254346875" y="1.954209375"/>
-<vertex x="-3.498234375" y="1.499171875"/>
-<vertex x="-3.680684375" y="1.016275"/>
-<vertex x="-3.79861875" y="0.513671875"/>
-<vertex x="-3.85" y="0.000003125"/>
-<vertex x="-3.79965625" y="-0.513959375"/>
-<vertex x="-3.68231875" y="-1.01685"/>
-<vertex x="-3.499996875" y="-1.50000625"/>
-<vertex x="-3.255853125" y="-1.955059375"/>
+<vertex x="-2.6" y="2.75" curve="44.955417"/>
+<vertex x="-3.85" y="0" curve="45.23973"/>
 </polygon>
 </package>
 <package name="SANYO-OSCON_SMD_E7" urn="urn:adsk.eagle:footprint:22968/1" library_version="11">
@@ -10898,19 +10797,9 @@ Source: e_os_all.pdf</description>
 <text x="-3.81" y="4.445" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.81" y="-5.715" size="1.27" layer="27">&gt;VALUE</text>
 <polygon width="0.2032" layer="51">
-<vertex x="-3.03055625" y="-2.286053125"/>
-<vertex x="-2.7" y="-2.65"/>
 <vertex x="-2.7" y="2.65"/>
-<vertex x="-3.020565625" y="2.279621875"/>
-<vertex x="-3.291225" y="1.871378125"/>
-<vertex x="-3.50755625" y="1.43191875"/>
-<vertex x="-3.666028125" y="0.9684375"/>
-<vertex x="-3.76404375" y="0.488515625"/>
-<vertex x="-3.8" y="-0.000003125"/>
-<vertex x="-3.77565" y="-0.49104375"/>
-<vertex x="-3.6841875" y="-0.97415"/>
-<vertex x="-3.52735625" y="-1.440125"/>
-<vertex x="-3.308090625" y="-1.880196875"/>
+<vertex x="-2.7" y="-2.65" curve="-47.290335"/>
+<vertex x="-3.8" y="0" curve="-44.001093"/>
 </polygon>
 </package>
 <package name="SANYO-OSCON_SMD_F12" urn="urn:adsk.eagle:footprint:22969/1" library_version="11">
@@ -10928,20 +10817,9 @@ Source: e_os_all.pdf</description>
 <text x="-5.08" y="5.715" size="1.27" layer="25">&gt;NAME</text>
 <text x="-5.08" y="-6.985" size="1.27" layer="27">&gt;VALUE</text>
 <polygon width="0.2032" layer="51">
-<vertex x="-3.521421875" y="-3.149740625"/>
 <vertex x="-3.05" y="-3.65"/>
-<vertex x="-3.05" y="3.65"/>
-<vertex x="-3.47514375" y="3.237278125"/>
-<vertex x="-3.847165625" y="2.776078125"/>
-<vertex x="-4.160575" y="2.27320625"/>
-<vertex x="-4.410753125" y="1.73605"/>
-<vertex x="-4.594003125" y="1.172571875"/>
-<vertex x="-4.70765" y="0.591021875"/>
-<vertex x="-4.749996875" y="0"/>
-<vertex x="-4.670425" y="-0.682753125"/>
-<vertex x="-4.5043875" y="-1.349775"/>
-<vertex x="-4.254609375" y="-1.990140625"/>
-<vertex x="-3.92515" y="-2.59343125"/>
+<vertex x="-3.05" y="3.65" curve="48.708973"/>
+<vertex x="-4.75" y="0" curve="43.982679"/>
 </polygon>
 </package>
 <package name="SANYO-OSCON_SMD_F8" urn="urn:adsk.eagle:footprint:22970/1" library_version="11">
@@ -10959,19 +10837,9 @@ Source: e_os_all.pdf</description>
 <text x="-5.08" y="5.715" size="1.27" layer="25">&gt;NAME</text>
 <text x="-5.08" y="-6.985" size="1.27" layer="27">&gt;VALUE</text>
 <polygon width="0.2032" layer="51">
-<vertex x="-3.517375" y="-3.146953125"/>
 <vertex x="-3.05" y="-3.65"/>
-<vertex x="-3.05" y="3.65"/>
-<vertex x="-3.51056875" y="3.142315625"/>
-<vertex x="-3.90685625" y="2.582990625"/>
-<vertex x="-4.233115625" y="1.98014375"/>
-<vertex x="-4.48463125" y="1.34246875"/>
-<vertex x="-4.657753125" y="0.679259375"/>
-<vertex x="-4.75" y="0.000003125"/>
-<vertex x="-4.6656875" y="-0.681453125"/>
-<vertex x="-4.497003125" y="-1.347053125"/>
-<vertex x="-4.246578125" y="-1.986409375"/>
-<vertex x="-3.918321875" y="-2.58951875"/>
+<vertex x="-3.05" y="3.65" curve="41.376652"/>
+<vertex x="-4.75" y="0" curve="43.010397"/>
 </polygon>
 </package>
 <package name="UD-10X10_NICHICON" urn="urn:adsk.eagle:footprint:22971/1" library_version="11">
@@ -10997,17 +10865,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <text x="-5.08" y="5.715" size="1.016" layer="25">&gt;NAME</text>
 <text x="-5.08" y="-6.35" size="1.016" layer="27">&gt;VALUE</text>
 <polygon width="0.1016" layer="51">
-<vertex x="-4.360365625" y="-2.313725"/>
+<vertex x="-4.05" y="2.8" curve="69.465624"/>
 <vertex x="-4.05" y="-2.825"/>
-<vertex x="-4.05" y="2.8"/>
-<vertex x="-4.360365625" y="2.288725"/>
-<vertex x="-4.606628125" y="1.743646875"/>
-<vertex x="-4.785159375" y="1.1727875"/>
-<vertex x="-4.8933375" y="0.584525"/>
-<vertex x="-4.929571875" y="-0.0125"/>
-<vertex x="-4.8933375" y="-0.609525"/>
-<vertex x="-4.785159375" y="-1.1977875"/>
-<vertex x="-4.606628125" y="-1.768646875"/>
 </polygon>
 </package>
 <package name="UD-4X5,8_NICHICON" urn="urn:adsk.eagle:footprint:22972/1" library_version="11">
@@ -11033,15 +10892,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <text x="-1.905" y="2.54" size="1.016" layer="25">&gt;NAME</text>
 <text x="-1.905" y="-3.175" size="1.016" layer="27">&gt;VALUE</text>
 <polygon width="0.1016" layer="51">
-<vertex x="-1.71455" y="-0.90774375"/>
+<vertex x="-1.55" y="1.175" curve="72.275472"/>
 <vertex x="-1.55" y="-1.175"/>
-<vertex x="-1.55" y="1.175"/>
-<vertex x="-1.71455" y="0.90774375"/>
-<vertex x="-1.835084375" y="0.617978125"/>
-<vertex x="-1.908625" y="0.312865625"/>
-<vertex x="-1.93334375" y="0"/>
-<vertex x="-1.908625" y="-0.312865625"/>
-<vertex x="-1.835084375" y="-0.617978125"/>
 </polygon>
 </package>
 <package name="UD-5X5,8_NICHICON" urn="urn:adsk.eagle:footprint:22973/1" library_version="11">
@@ -11067,19 +10919,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <text x="-2.54" y="3.175" size="1.016" layer="25">&gt;NAME</text>
 <text x="-2.54" y="-3.81" size="1.016" layer="27">&gt;VALUE</text>
 <polygon width="0.1016" layer="51">
-<vertex x="-1.805459375" y="-1.627340625"/>
+<vertex x="-1.55" y="1.875" curve="100.118878"/>
 <vertex x="-1.55" y="-1.875"/>
-<vertex x="-1.55" y="1.875"/>
-<vertex x="-1.805459375" y="1.627340625"/>
-<vertex x="-2.022271875" y="1.3452375"/>
-<vertex x="-2.195853125" y="1.0346625"/>
-<vertex x="-2.322528125" y="0.7022"/>
-<vertex x="-2.399628125" y="0.354846875"/>
-<vertex x="-2.4255125" y="0"/>
-<vertex x="-2.399628125" y="-0.354846875"/>
-<vertex x="-2.322528125" y="-0.7022"/>
-<vertex x="-2.195853125" y="-1.0346625"/>
-<vertex x="-2.022271875" y="-1.3452375"/>
 </polygon>
 </package>
 <package name="UD-6,3X5,8_NICHICON" urn="urn:adsk.eagle:footprint:22974/1" library_version="11">
@@ -11105,18 +10946,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <text x="-3.175" y="3.81" size="1.016" layer="25">&gt;NAME</text>
 <text x="-3.175" y="-4.445" size="1.016" layer="27">&gt;VALUE</text>
 <polygon width="0.1016" layer="51">
-<vertex x="-2.4794625" y="-1.820046875"/>
-<vertex x="-2.2" y="-2.150003125"/>
-<vertex x="-2.2" y="2.150003125"/>
-<vertex x="-2.4794625" y="1.820046875"/>
-<vertex x="-2.7099375" y="1.454228125"/>
-<vertex x="-2.886890625" y="1.059725"/>
-<vertex x="-3.0068375" y="0.644309375"/>
-<vertex x="-3.067409375" y="0.2162"/>
-<vertex x="-3.067409375" y="-0.2162"/>
-<vertex x="-3.0068375" y="-0.644309375"/>
-<vertex x="-2.886890625" y="-1.059725"/>
-<vertex x="-2.7099375" y="-1.454228125"/>
+<vertex x="-2.2" y="2.15" curve="88.581463"/>
+<vertex x="-2.2" y="-2.15"/>
 </polygon>
 </package>
 <package name="UD-6,3X7,7_NICHICON" urn="urn:adsk.eagle:footprint:22975/1" library_version="11">
@@ -11142,18 +10973,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <text x="-3.175" y="3.81" size="1.016" layer="25">&gt;NAME</text>
 <text x="-3.175" y="-4.445" size="1.016" layer="27">&gt;VALUE</text>
 <polygon width="0.1016" layer="51">
-<vertex x="-2.4794625" y="-1.820046875"/>
-<vertex x="-2.2" y="-2.150003125"/>
-<vertex x="-2.2" y="2.150003125"/>
-<vertex x="-2.4794625" y="1.820046875"/>
-<vertex x="-2.7099375" y="1.454228125"/>
-<vertex x="-2.886890625" y="1.059725"/>
-<vertex x="-3.0068375" y="0.644309375"/>
-<vertex x="-3.067409375" y="0.2162"/>
-<vertex x="-3.067409375" y="-0.2162"/>
-<vertex x="-3.0068375" y="-0.644309375"/>
-<vertex x="-2.886890625" y="-1.059725"/>
-<vertex x="-2.7099375" y="-1.454228125"/>
+<vertex x="-2.2" y="2.15" curve="88.581463"/>
+<vertex x="-2.2" y="-2.15"/>
 </polygon>
 </package>
 <package name="UD-8X10_NICHICON" urn="urn:adsk.eagle:footprint:22976/1" library_version="11">
@@ -11179,17 +11000,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <text x="-3.81" y="4.445" size="1.016" layer="25">&gt;NAME</text>
 <text x="-3.81" y="-5.715" size="1.016" layer="27">&gt;VALUE</text>
 <polygon width="0.1016" layer="51">
-<vertex x="-3.357159375" y="-2.0371375"/>
+<vertex x="-3.05" y="2.475" curve="77.887741"/>
 <vertex x="-3.05" y="-2.475"/>
-<vertex x="-3.05" y="2.475"/>
-<vertex x="-3.357159375" y="2.0371375"/>
-<vertex x="-3.602140625" y="1.56169375"/>
-<vertex x="-3.78044375" y="1.057409375"/>
-<vertex x="-3.888753125" y="0.533621875"/>
-<vertex x="-3.925078125" y="0"/>
-<vertex x="-3.888753125" y="-0.533621875"/>
-<vertex x="-3.78044375" y="-1.057409375"/>
-<vertex x="-3.602140625" y="-1.56169375"/>
 </polygon>
 </package>
 </packages>
@@ -12064,48 +11876,6 @@ KEMET V / EIA 7343-20, KEMET X / EIA 7343-43 Wafe solder</description>
 <packageinstance name="R/2012-12W"/>
 </packageinstances>
 </package3d>
-<package3d name="PANASONIC_A" urn="urn:adsk.eagle:package:23418/2" type="model" library_version="11">
-<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package A</description>
-<packageinstances>
-<packageinstance name="PANASONIC_A"/>
-</packageinstances>
-</package3d>
-<package3d name="PANASONIC_B" urn="urn:adsk.eagle:package:23421/2" type="model" library_version="11">
-<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B</description>
-<packageinstances>
-<packageinstance name="PANASONIC_B"/>
-</packageinstances>
-</package3d>
-<package3d name="PANASONIC_C" urn="urn:adsk.eagle:package:23422/2" type="model" library_version="11">
-<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package C</description>
-<packageinstances>
-<packageinstance name="PANASONIC_C"/>
-</packageinstances>
-</package3d>
-<package3d name="PANASONIC_D" urn="urn:adsk.eagle:package:23424/2" type="model" library_version="11">
-<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package D</description>
-<packageinstances>
-<packageinstance name="PANASONIC_D"/>
-</packageinstances>
-</package3d>
-<package3d name="PANASONIC_E" urn="urn:adsk.eagle:package:23425/2" type="model" library_version="11">
-<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E</description>
-<packageinstances>
-<packageinstance name="PANASONIC_E"/>
-</packageinstances>
-</package3d>
-<package3d name="PANASONIC_F" urn="urn:adsk.eagle:package:23428/2" type="model" library_version="11">
-<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package F</description>
-<packageinstances>
-<packageinstance name="PANASONIC_F"/>
-</packageinstances>
-</package3d>
-<package3d name="PANASONIC_G" urn="urn:adsk.eagle:package:23427/2" type="model" library_version="11">
-<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package G</description>
-<packageinstances>
-<packageinstance name="PANASONIC_G"/>
-</packageinstances>
-</package3d>
 <package3d name="TT2D5L" urn="urn:adsk.eagle:package:23429/1" type="box" library_version="11">
 <description>ELECTROLYTIC CAPACITOR
 diameter 5 mm, grid 2.54 mm</description>
@@ -12224,13 +11994,6 @@ Source: e_os_all.pdf</description>
 <packageinstance name="SANYO-OSCON_C'"/>
 </packageinstances>
 </package3d>
-<package3d name="SANYO-OSCON_C6" urn="urn:adsk.eagle:package:23444/1" type="box" library_version="11">
-<description>SANYO OSCON Capacitor
-Source: e_os_all.pdf</description>
-<packageinstances>
-<packageinstance name="SANYO-OSCON_C6"/>
-</packageinstances>
-</package3d>
 <package3d name="SANYO-OSCON_D" urn="urn:adsk.eagle:package:23445/1" type="box" library_version="11">
 <description>SANYO OSCON Capacitor
 Source: e_os_all.pdf</description>
@@ -12257,6 +12020,90 @@ Source: e_os_all.pdf</description>
 Source: e_os_all.pdf</description>
 <packageinstances>
 <packageinstance name="SANYO-OSCON_E1"/>
+</packageinstances>
+</package3d>
+<package3d name="SANYO-OSCON_F" urn="urn:adsk.eagle:package:23462/1" type="box" library_version="11">
+<description>SANYO OSCON Capacitor
+Source: e_os_all.pdf</description>
+<packageinstances>
+<packageinstance name="SANYO-OSCON_F"/>
+</packageinstances>
+</package3d>
+<package3d name="SANYO-OSCON_F'" urn="urn:adsk.eagle:package:23450/1" type="box" library_version="11">
+<description>SANYO OSCON Capacitor
+Source: e_os_all.pdf</description>
+<packageinstances>
+<packageinstance name="SANYO-OSCON_F'"/>
+</packageinstances>
+</package3d>
+<package3d name="SANYO-OSCON_F0" urn="urn:adsk.eagle:package:23459/1" type="box" library_version="11">
+<description>SANYO OSCON Capacitor
+Source: e_os_all.pdf</description>
+<packageinstances>
+<packageinstance name="SANYO-OSCON_F0"/>
+</packageinstances>
+</package3d>
+<package3d name="SANYO-OSCON_G" urn="urn:adsk.eagle:package:23458/1" type="box" library_version="11">
+<description>SANYO OSCON Capacitor
+Source: e_os_all.pdf</description>
+<packageinstances>
+<packageinstance name="SANYO-OSCON_G"/>
+</packageinstances>
+</package3d>
+<package3d name="SANYO-OSCON_H" urn="urn:adsk.eagle:package:23463/1" type="box" library_version="11">
+<description>SANYO OSCON Capacitor
+Source: e_os_all.pdf</description>
+<packageinstances>
+<packageinstance name="SANYO-OSCON_H"/>
+</packageinstances>
+</package3d>
+<package3d name="PANASONIC_A" urn="urn:adsk.eagle:package:23418/2" type="model" library_version="11">
+<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package A</description>
+<packageinstances>
+<packageinstance name="PANASONIC_A"/>
+</packageinstances>
+</package3d>
+<package3d name="PANASONIC_B" urn="urn:adsk.eagle:package:23421/2" type="model" library_version="11">
+<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package B</description>
+<packageinstances>
+<packageinstance name="PANASONIC_B"/>
+</packageinstances>
+</package3d>
+<package3d name="PANASONIC_C" urn="urn:adsk.eagle:package:23422/2" type="model" library_version="11">
+<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package C</description>
+<packageinstances>
+<packageinstance name="PANASONIC_C"/>
+</packageinstances>
+</package3d>
+<package3d name="PANASONIC_D" urn="urn:adsk.eagle:package:23424/2" type="model" library_version="11">
+<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package D</description>
+<packageinstances>
+<packageinstance name="PANASONIC_D"/>
+</packageinstances>
+</package3d>
+<package3d name="PANASONIC_E" urn="urn:adsk.eagle:package:23425/2" type="model" library_version="11">
+<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E</description>
+<packageinstances>
+<packageinstance name="PANASONIC_E"/>
+</packageinstances>
+</package3d>
+<package3d name="PANASONIC_F" urn="urn:adsk.eagle:package:23428/2" type="model" library_version="11">
+<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package F</description>
+<packageinstances>
+<packageinstance name="PANASONIC_F"/>
+</packageinstances>
+</package3d>
+<package3d name="PANASONIC_G" urn="urn:adsk.eagle:package:23427/2" type="model" library_version="11">
+<description>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package G</description>
+<packageinstances>
+<packageinstance name="PANASONIC_G"/>
+</packageinstances>
+</package3d>
+<package3d name="SANYO-OSCON_C6" urn="urn:adsk.eagle:package:23444/1" type="box" library_version="11">
+<description>SANYO OSCON Capacitor
+Source: e_os_all.pdf</description>
+<packageinstances>
+<packageinstance name="SANYO-OSCON_C6"/>
 </packageinstances>
 </package3d>
 <package3d name="SANYO-OSCON_E12" urn="urn:adsk.eagle:package:23448/1" type="box" library_version="11">
@@ -12287,27 +12134,6 @@ Source: e_os_all.pdf</description>
 <packageinstance name="SANYO-OSCON_E9"/>
 </packageinstances>
 </package3d>
-<package3d name="SANYO-OSCON_F" urn="urn:adsk.eagle:package:23462/1" type="box" library_version="11">
-<description>SANYO OSCON Capacitor
-Source: e_os_all.pdf</description>
-<packageinstances>
-<packageinstance name="SANYO-OSCON_F"/>
-</packageinstances>
-</package3d>
-<package3d name="SANYO-OSCON_F'" urn="urn:adsk.eagle:package:23450/1" type="box" library_version="11">
-<description>SANYO OSCON Capacitor
-Source: e_os_all.pdf</description>
-<packageinstances>
-<packageinstance name="SANYO-OSCON_F'"/>
-</packageinstances>
-</package3d>
-<package3d name="SANYO-OSCON_F0" urn="urn:adsk.eagle:package:23459/1" type="box" library_version="11">
-<description>SANYO OSCON Capacitor
-Source: e_os_all.pdf</description>
-<packageinstances>
-<packageinstance name="SANYO-OSCON_F0"/>
-</packageinstances>
-</package3d>
 <package3d name="SANYO-OSCON_F13" urn="urn:adsk.eagle:package:23455/1" type="box" library_version="11">
 <description>SANYO OSCON Capacitor
 Source: e_os_all.pdf</description>
@@ -12320,20 +12146,6 @@ Source: e_os_all.pdf</description>
 Source: e_os_all.pdf</description>
 <packageinstances>
 <packageinstance name="SANYO-OSCON_F8"/>
-</packageinstances>
-</package3d>
-<package3d name="SANYO-OSCON_G" urn="urn:adsk.eagle:package:23458/1" type="box" library_version="11">
-<description>SANYO OSCON Capacitor
-Source: e_os_all.pdf</description>
-<packageinstances>
-<packageinstance name="SANYO-OSCON_G"/>
-</packageinstances>
-</package3d>
-<package3d name="SANYO-OSCON_H" urn="urn:adsk.eagle:package:23463/1" type="box" library_version="11">
-<description>SANYO OSCON Capacitor
-Source: e_os_all.pdf</description>
-<packageinstances>
-<packageinstance name="SANYO-OSCON_H"/>
 </packageinstances>
 </package3d>
 <package3d name="SANYO-OSCON_SMD_A5" urn="urn:adsk.eagle:package:23460/1" type="box" library_version="11">
@@ -20766,7 +20578,7 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <part name="C3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-US" device="SMCZ" package3d_urn="urn:adsk.eagle:package:25927/3" value="10n"/>
 <part name="C1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-US" device="SMCZ" package3d_urn="urn:adsk.eagle:package:25927/3" value="10n"/>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-US" device="SMCZ" package3d_urn="urn:adsk.eagle:package:25927/3" value="10n"/>
-<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-US" device="SMCZ" package3d_urn="urn:adsk.eagle:package:25927/3" value="100n"/>
+<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-US" device="E5-5" package3d_urn="urn:adsk.eagle:package:23367/2" value="100n"/>
 <part name="V+" library="SparkFun-Connectors" deviceset="CONN_02" device="2.54MM_SCREWTERM"/>
 <part name="VDD" library="SparkFun-Connectors" deviceset="CONN_02" device="2.54MM_SCREWTERM"/>
 <part name="D1" library="diode" library_urn="urn:adsk.eagle:library:210" deviceset="DIODE-" device="GF1" package3d_urn="urn:adsk.eagle:package:43422/1"/>
